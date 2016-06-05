@@ -1,4 +1,4 @@
-# Ember-cli-fill-murray
+# ember-cli-fill-murray-raksonibs
 
 This README outlines the details of collaborating on this Ember addon.
 
